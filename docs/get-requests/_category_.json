@@ -1,0 +1,8 @@
+{
+  "label": "Get Requests",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Requests that use the GET method"
+  }
+}

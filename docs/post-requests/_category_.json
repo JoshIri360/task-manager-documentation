@@ -1,0 +1,8 @@
+{
+  "label": "Post Requests",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Requests that use the POST method"
+  }
+}

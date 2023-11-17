@@ -1,0 +1,9 @@
+{
+    "label": "Put Requests",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Requests that use the PUT method"
+    }
+  }
+  
